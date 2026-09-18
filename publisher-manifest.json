@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "14662898508ab062058bf1b1",
+  "owner": "qh6b3qjke",
+  "repo": "page-50b623d763889fd615d053bc",
+  "title": "佩奇(Nexitally)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "50b623d763889fd615d053bc",
+      "a": "佩奇(Nexitally)",
+      "b": "ClashX官方下载",
+      "entity": "佩奇(Nexitally)",
+      "brand": "佩奇(Nexitally)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "abfd044305e22cf3cb9caf3411d72ee1ff6b81f809bdd1d651f6246f14696843",
+      "content": {
+        "primary_entity": "佩奇(Nexitally)",
+        "keyword1": "佩奇(Nexitally)",
+        "keyword2": "ClashX官方下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "macOS 用户可选择 ClashX、Clash Verge 等客户端，Windows 端推荐 Clash Verge Rev 或 Clash for Windows。",
+          "AI_CLIENTS_TITLE": "选择适合设备的客户端",
+          "AI_CLOSING_TEXT": "选择佩奇套餐并完成客户端订阅配置，即可开始稳定使用。",
+          "AI_CLOSING_TITLE": "开始配置佩奇订阅",
+          "AI_DESCRIPTION": "，佩奇提供基础版、旗舰版与团队版三档订阅，月付与年付灵活切换，覆盖从个人轻量使用到团队多设备并发的场景。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备并搭载 IPLC 专线；团队版每月 1000GB 流量、支持 20 台设备。用户可根据设备数量、流量消耗和使用频率选择合适的套餐，并按客户端文档导入订阅地址完成配置。",
+          "AI_FEATURES_INTRO": "从套餐流量、设备数量到订阅周期，按实际使用需求进行选择。",
+          "AI_FEATURES_TITLE": "套餐与设备匹配",
+          "AI_FEATURE_TEXT_1": "基础版适合 3 台以内设备、月流量 100GB 以内的轻度使用场景，年付 ¥150 更划算。",
+          "AI_FEATURE_TEXT_2": "旗舰版支持 5 台设备并搭载 IPLC 专线，适合需要游戏加速与流媒体解锁的用户。",
+          "AI_FEATURE_TEXT_3": "团队版支持 20 台设备与 1000GB 月流量，适合小团队或家庭多设备共享订阅。",
+          "AI_FEATURE_TITLE_1": "按流量选择",
+          "AI_FEATURE_TITLE_2": "按设备数量",
+          "AI_FEATURE_TITLE_3": "按使用场景",
+          "AI_GUIDE_INTRO": "从套餐选择到客户端配置，三步完成佩奇订阅接入。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_HERO_INTRO": "佩奇(Nexitally)提供基础版、旗舰版和团队版三档海外加速订阅，月付与年付灵活可选，覆盖个人到团队的多种设备规模。用户可根据流量需求、设备数量和使用场景选择合适的套餐，并按客户端文档完成订阅导入。",
+          "AI_HERO_SUBTITLE": "佩奇加速订阅，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐对应不同流量与设备规模",
+          "AI_HIGHLIGHT_2": "旗舰版搭载 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "年付方案较月付更具价格优势",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，适合 3 台设备；旗舰版 ¥35/月或 ¥350/年，支持 5 台设备与 IPLC 专线；团队版 ¥85/月或 ¥850/年，支持 20 台设备与 1000GB 月流量。",
+          "AI_PLANS_TITLE": "对比套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版和团队版之间选择，年付可节省费用。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备并发数、流量额度与权益，判断是否满足当前使用场景。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅地址，按照客户端文档指引完成节点选择与连接。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "佩奇套餐与设备适配",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、支持3台设备；旗舰版每月300GB、支持5台设备；团队版每月1000GB、支持20台设备。按年付三档分别为150元、350元、850元。",
+          "AI_FAQ_ANSWER_2": "可以。在旗舰版基础上增加在线设备数和流量额度，企业定制路由与专属客户经理可联系客户经理确认具体方案。",
+          "AI_FAQ_ANSWER_3": "不需要。购买后在客户端内填入订阅地址即可自动拉取节点，无需手动逐个添加服务器。",
+          "AI_FAQ_ANSWER_4": "基础版覆盖日常浏览与基础流媒体，旗舰版支持全节点原生流媒体解锁并针对游戏场景做专线优化，团队版提供VIP高带宽节点。",
+          "AI_FAQ_ANSWER_5": "同一时间在线的设备数按套餐上限执行，超出后可先在客户端断开不用的设备，再连接新设备。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "各套餐流量和价格有什么区别？",
+          "AI_FAQ_QUESTION_2": "团队版可以从旗舰版升级吗？",
+          "AI_FAQ_QUESTION_3": "配置订阅需要手动添加节点吗？",
+          "AI_FAQ_QUESTION_4": "流媒体和游戏场景该选哪个套餐？",
+          "AI_FAQ_QUESTION_5": "同账号多设备同时在线如何处理？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "82e6e92fa0552e9fc8ca93ede78f717cb20fb0437ec49abf7d5a8404449bc81b",
+    "sitemap.xml": "2575f6c306707445a886baa701891f71404ad33d2e087bda808f9cfb172ec89d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "146e245a8e7a2ae9722d4cfd37d48e9bdeb2e20ddc78a35d86da8bd7e4a408ab"
+}
